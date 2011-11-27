@@ -2,7 +2,7 @@
 
 Name:		geronimo-jms
 Version:	1.1.1
-Release:	8
+Release:	10
 Summary:	J2EE JMS v1.1 API
 
 Group:		Development/Java
